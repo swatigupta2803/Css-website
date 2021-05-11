@@ -1,0 +1,114 @@
+body{
+	margin:0px;
+	background-color:#F0F8FF;
+	text-align:center;
+	color:#11999E;
+}
+p{
+	color:#000000;
+}
+.top-container{
+		background-color:#F0F8FF;
+		position:relative;
+		padding-top:100px;
+}
+.middle-container{
+	background-color:#F0F8FF;
+	padding-top:100px;
+}
+.bottom-container{
+	background-color:#66BFBF;
+	margin-top:50px;
+	padding:50px 0px 20px;
+	
+}
+.top-cloud{
+	background-color:#F0F8FF;
+	position:absolute;
+	right:300px;
+	top:50px;
+	
+}
+.bottom-cloud{
+	position:absolute;
+	left:300px;
+	bottom:300px;
+	
+}
+.mountain-img{
+	margin:0px auto 0px auto
+}
+.profile-img{
+	height:150px;
+	width:150px;
+	
+}
+hr{
+	border:dotted #000000 6px; 
+	border-bottom:none;
+	width:5%;
+}
+.profile{
+	padding-bottom:30px;
+}
+.skills1{
+	padding-top:30px;
+}
+.skill-row{
+	
+}
+.skills2{
+	height:100px;
+	width:100px;
+	float:left;
+	margin-left:350px;
+	
+}
+.skills3{
+	height:100px;
+	width:100px;
+	float:right;
+	margin-right:350px;
+	
+}
+.skill-row{
+		clear:none;
+}
+.contact-me
+{
+	padding-top:30px;
+}
+a{
+	color:#11999E;
+	margin:10px 20px;
+}
+a:hover
+{
+	color:#ffffff;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999E);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
